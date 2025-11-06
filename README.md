@@ -75,7 +75,7 @@ Below is the Menu page from the dashboard and more examples are included through
 4. **Category imbalance is severe:** Food accounts for 51.92% of profit with 5,984 units sold (27.4% margin), while Mercantile generates only 1.98% of profit despite having the highest margin (37.5%).
    - This suggests Mercantile items are poorly positioned, under-marketed, or not visible to customers. Strategic focus on **Mercantile visibility** could shift profit mix significantly.
 
-![Mobile-Sales-Analysis](https://github.com/The-DataMaven/restaurant-performance-analytics/blob/67ecb67aea6dc26cb2e11a300c9d0a926c87e395/scatter_plot.PNG)
+![Scatter plot showing item distribution across different quadrants](https://github.com/The-DataMaven/restaurant-performance-analytics/blob/67ecb67aea6dc26cb2e11a300c9d0a926c87e395/scatter_plot.PNG)
 
 
 ### Staff Optimization
@@ -94,7 +94,7 @@ Below is the Menu page from the dashboard and more examples are included through
 4. **Hour 22 (10pm) identified as single peak hour** with highest individual order count (338 orders), yet this is typically when restaurants begin winding down staff.
     - This late-night demand suggests opportunity for targeted late-night promotions or extended hours on weekends. If 10pm hour can be optimized across all locations, potential additional weekly revenue: $3,500.
 
-![Mobile-Sales-Analysis](https://github.com/The-DataMaven/restaurant-performance-analytics/blob/67ecb67aea6dc26cb2e11a300c9d0a926c87e395/heat_map.PNG)
+![Heat map showing order volume by day of week and hour of day](https://github.com/The-DataMaven/restaurant-performance-analytics/blob/67ecb67aea6dc26cb2e11a300c9d0a926c87e395/heat_map.PNG)
 
 ### Category Performance
 1. **Mercantile is the ultimate hidden gem category:** With only 90 items sold over 6 days (15 items/day) but commanding a 37.5% profit margin, Mercantile items generate $43.50 average profit per order—2.8X higher than Food ($15.50/order).
@@ -110,7 +110,7 @@ Below is the Menu page from the dashboard and more examples are included through
 4. **Category diversification risk is low but concentration is high:** While having three categories provides some diversification, Food+LB/WNA together represent 98% of profit. If Food category faces disruption (supply chain, health trends, competition), the business is highly exposed.
     - Strategic expansion of Mercantile (which could include retail packaged goods, branded merchandise, or gift items) would provide both profit growth and risk mitigation.
 
-![Mobile-Sales-Analysis](https://github.com/The-DataMaven/restaurant-performance-analytics/blob/67ecb67aea6dc26cb2e11a300c9d0a926c87e395/scatter2.PNG)
+![Scatter plot positioning Food, LB/WNA, and Mercantile categories](https://github.com/The-DataMaven/restaurant-performance-analytics/blob/67ecb67aea6dc26cb2e11a300c9d0a926c87e395/scatter2.PNG)
 
 ### Hours Variance Analysis
 1. **Cook role shows critical 200% variance** (687 actual hours vs. 672 scheduled = +15 hours, but percentage suggests data validation needed).
@@ -129,10 +129,10 @@ Below is the Menu page from the dashboard and more examples are included through
     - Schedule includes administrative time but managers are spending more time on-site than in office, or
     - Data quality issue. Investigation required to understand if this represents a problem or simply reflects different work patterns for salaried managers.
  
-![Mobile-Sales-Analysis](https://github.com/The-DataMaven/restaurant-performance-analytics/blob/67ecb67aea6dc26cb2e11a300c9d0a926c87e395/line.PNG)
+![Line chart showing daily variance trends with Saturday -10 hour dip clearly visible](https://github.com/The-DataMaven/restaurant-performance-analytics/blob/67ecb67aea6dc26cb2e11a300c9d0a926c87e395/line.PNG)
 
 
-![Mobile-Sales-Analysis](https://github.com/The-DataMaven/restaurant-performance-analytics/blob/67ecb67aea6dc26cb2e11a300c9d0a926c87e395/bar_chart.PNG)
+![bar chart showing role-level variance](https://github.com/The-DataMaven/restaurant-performance-analytics/blob/67ecb67aea6dc26cb2e11a300c9d0a926c87e395/bar_chart.PNG)
 
 
 ## Recommendations
