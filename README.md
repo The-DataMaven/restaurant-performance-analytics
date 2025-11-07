@@ -141,42 +141,42 @@ Based on the insights and findings above, we recommend the Restaurant Operations
 1. **Promote Mercantile Category Aggressively:**
 Mercantile items have 37.5% margins but only 90 units sold (1.98% of profit).
 Actions:
-  - Feature Mercantile items on prominent menu positions (front page, table tents),
-  - Train servers to recommend Mercantile items with every order,
-  - Create bundled deals (e.g., "Meal + Mercantile item" combos),
-  - Implement point-of-sale prompts for cashiers. Expected impact: Double Mercantile sales within 2 months = +$76,800 annual profit.
+   - Feature Mercantile items on prominent menu positions (front page, table tents),
+   - Train servers to recommend Mercantile items with every order,
+   - Create bundled deals (e.g., "Meal + Mercantile item" combos),
+   - Implement point-of-sale prompts for cashiers. Expected impact: Double Mercantile sales within 2 months = +$76,800 annual profit.
     
 2. **Implement Strategic Food Pricing:**
 Food category (51.92% of profit) operates at only 27.4% margin.
 Actions:
-  - Phase out bottom 10 items over 60 days, monitor customer feedback, reallocate kitchen resources to high-performing items.
-  - **Expected impact:** Operational simplification + kitchen efficiency gains + $12,000 redeployed to high-margin items.
+   -  Increase prices by 10% on the top 20 Food items (Pareto principle - these represent 80% of Food sales). Test pricing sensitivity on high-volume, brand-specific items where customers are less price-sensitive.
+   - **Expected impact:** 90% customer retention rate with 10% price increase = +$201,760 annual profit.
     
 3. **Rationalize Menu by Removing Bottom 10 Items:**
 Bottom 10 items contribute $146 total profit but tie up inventory, complicate kitchen workflows, and dilute menu clarity.
 Actions:
-  - Phase out bottom 10 items over 60 days, monitor customer feedback, reallocate kitchen resources to high-performing items.
-  - **Expected impact:*** Operational simplification + kitchen efficiency gains + $12,000 redeployed to high-margin items.
+   - Phase out bottom 10 items over 60 days, monitor customer feedback, reallocate kitchen resources to high-performing items.
+   - **Expected impact:*** Operational simplification + kitchen efficiency gains + $12,000 redeployed to high-margin items.
     
 4. **Realign Staffing to Demand Patterns:**
 Current staffing doesn't match demand curves—peak hours (12-2pm, 6-8pm) are understaffed while afternoon lull (2-5pm) is overstaffed. Actions:
-  - Add 2 staff during peak hours, (2) Reduce 2 staff during 2-5pm,
-  - Implement dynamic scheduling software that references historical hourly demand data.
-  - **Expected impact:** $74,880 annual labor savings (10% reduction) while improving peak-hour service quality.
+   - Add 2 staff during peak hours, (2) Reduce 2 staff during 2-5pm,
+   - Implement dynamic scheduling software that references historical hourly demand data.
+   - **Expected impact:** $74,880 annual labor savings (10% reduction) while improving peak-hour service quality.
     
 5. **Fix Cook Scheduling and Saturday Understaffing:**
    Cooks work 200% of scheduled hours and Saturdays show -10 hour variance. Actions:
-  - Increase Cook base schedules by 1 hour/shift (addresses chronic understaffing),
-  - Add 10 hours to Saturday schedules across all roles,
-  - Implement weekly variance review meetings to catch scheduling gaps early.
-  - Expected impact: Reduce unplanned overtime by 50% = $6,630 annual savings + improved employee retention.
+   - Increase Cook base schedules by 1 hour/shift (addresses chronic understaffing),
+   - Add 10 hours to Saturday schedules across all roles,
+   - Implement weekly variance review meetings to catch scheduling gaps early.
+   - Expected impact: Reduce unplanned overtime by 50% = $6,630 annual savings + improved employee retention.
     
 6. **Investigate and Fix Saturday Performance:**
 Saturday shows worst revenue per labor hour ($8 vs. Tuesday $76) despite being traditionally high-demand restaurant day.
 Actions:
-  - Conduct Saturday customer flow analysis (are customers being turned away?),
-  - Review Saturday menu/service quality for issues,
-  - Compare Saturday marketing/promotions vs. other days. Root cause must be identified - if demand is genuinely low, reduce Saturday staff; if service issues suppress sales, fix operations to unlock Saturday revenue potential.
+   - Conduct Saturday customer flow analysis (are customers being turned away?),
+   - Review Saturday menu/service quality for issues,
+   - Compare Saturday marketing/promotions vs. other days. Root cause must be identified - if demand is genuinely low, reduce Saturday staff; if service issues suppress sales, fix operations to unlock Saturday revenue potential.
 
 
 ## Assumptions and Caveats
