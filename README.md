@@ -49,9 +49,8 @@ Menu optimization reveals that just **71 items (20%) drive 80% of profit**, whil
 
 Combined impact: **$250,000+** in annual profit opportunity through category promotion, labor reallocation, and menu rationalization.
 
-Below is the Menu page from the dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://public.tableau.com/views/MobileSalesDashboard2024/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Menu Performance](https://github.com/The-DataMaven/restaurant-performance-analytics/blob/67ecb67aea6dc26cb2e11a300c9d0a926c87e395/Dashboard%20Images/menu_perfromance.PNG)
+![Menu Performance](https://github.com/The-DataMaven/restaurant-performance-analytics/blob/f3abcc457f88f5b5a3b44288c6b9f0960a5473d9/Dashboard%20Images/menu.PNG)
 
 ![Staff Optimization](https://github.com/The-DataMaven/restaurant-performance-analytics/blob/67ecb67aea6dc26cb2e11a300c9d0a926c87e395/Dashboard%20Images/staff_optimization.PNG)
 
