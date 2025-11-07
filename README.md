@@ -124,8 +124,8 @@ Combined impact: **$250,000+** in annual profit opportunity through category pro
     - Root cause analysis needed: Are Shift Leaders covering for absent staff, or are operational demands exceeding planned capacity?
       
 4. General Manager shows -4 hour variance (under-worked relative to schedule), which is unusual for management roles. This could indicate:
-    - Managers taking time off or leaving early,
-    - Schedule includes administrative time but managers are spending more time on-site than in office, or
+    - Managers taking time off or leaving early.
+    - Schedule includes administrative time but managers are spending more time on-site than in office.
     - Data quality issue. Investigation required to understand if this represents a problem or simply reflects different work patterns for salaried managers.
  
 ![Line chart showing daily variance trends with Saturday -10 hour dip clearly visible](https://github.com/The-DataMaven/restaurant-performance-analytics/blob/67ecb67aea6dc26cb2e11a300c9d0a926c87e395/line.PNG)
@@ -140,9 +140,9 @@ Based on the insights and findings above, we recommend the Restaurant Operations
 1. **Promote Mercantile Category Aggressively:**
 Mercantile items have 37.5% margins but only 90 units sold (1.98% of profit).
 Actions:
-   - Feature Mercantile items on prominent menu positions (front page, table tents),
-   - Train servers to recommend Mercantile items with every order,
-   - Create bundled deals (e.g., "Meal + Mercantile item" combos),
+   - Feature Mercantile items on prominent menu positions (front page, table stalls).
+   - Train servers to recommend Mercantile items with every order.
+   - Create bundled deals (e.g., "Meal + Mercantile item" combos).
    - Implement point-of-sale prompts for cashiers. Expected impact: Double Mercantile sales within 2 months = +$76,800 annual profit.
     
 2. **Implement Strategic Food Pricing:**
@@ -158,23 +158,25 @@ Actions:
    - **Expected impact:*** Operational simplification + kitchen efficiency gains + $12,000 redeployed to high-margin items.
     
 4. **Realign Staffing to Demand Patterns:**
-Current staffing doesn't match demand curves—peak hours (12-2pm, 6-8pm) are understaffed while afternoon lull (2-5pm) is overstaffed. Actions:
-   - Add 2 staff during peak hours, (2) Reduce 2 staff during 2-5pm,
+Current staffing doesn't match demand curves—peak hours (12-2pm, 6-8pm) are understaffed while afternoon lull (2-5pm) is overstaffed.
+Actions:
+   - Add 2 staff during peak hours, (2) Reduce 2 staff during 2-5pm.
    - Implement dynamic scheduling software that references historical hourly demand data.
    - **Expected impact:** $74,880 annual labor savings (10% reduction) while improving peak-hour service quality.
     
-5. **Fix Cook Scheduling and Saturday Understaffing:**
-   Cooks work 200% of scheduled hours and Saturdays show -10 hour variance. Actions:
-   - Increase Cook base schedules by 1 hour/shift (addresses chronic understaffing),
-   - Add 10 hours to Saturday schedules across all roles,
+6. **Fix Cook Scheduling and Saturday Understaffing:**
+   Cooks work 200% of scheduled hours and Saturdays show -10 hour variance.
+   Actions:
+   - Increase Cook base schedules by 1 hour/shift (addresses chronic understaffing).
+   - Add 10 hours to Saturday schedules across all roles.
    - Implement weekly variance review meetings to catch scheduling gaps early.
    - Expected impact: Reduce unplanned overtime by 50% = $6,630 annual savings + improved employee retention.
     
-6. **Investigate and Fix Saturday Performance:**
+8. **Investigate and Fix Saturday Performance:**
 Saturday shows worst revenue per labor hour ($8 vs. Tuesday $76) despite being traditionally high-demand restaurant day.
 Actions:
-   - Conduct Saturday customer flow analysis (are customers being turned away?),
-   - Review Saturday menu/service quality for issues,
+   - Conduct Saturday customer flow analysis (are customers being turned away?).
+   - Review Saturday menu/service quality for issues.
    - Compare Saturday marketing/promotions vs. other days. Root cause must be identified - if demand is genuinely low, reduce Saturday staff; if service issues suppress sales, fix operations to unlock Saturday revenue potential.
 
 
