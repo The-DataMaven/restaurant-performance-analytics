@@ -204,9 +204,10 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 
  - **GitHub -** Version control and documentation
 
-## Contact
-Jennifer Joseph
+## About Me
 
-Data Analyst
+Hi there, I'm **Jennifer Joseph E.** I'm a data analyst passionate about passionate about about transforming information that supports decision-making and creates positive change.
+
+You can contact me for jobs and collaborations here:
 
 [LinkedIn](https://www.linkedin.com/in/jenniferjoseph-data/) | [Email](jennyashaeziembu@gmail.com)
